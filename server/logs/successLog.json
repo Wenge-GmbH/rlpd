@@ -1,0 +1,31 @@
+{
+  "2018-2-18": [
+    {
+      "message": "Success",
+      "data": {
+        "epoch_time": 1518957394993,
+        "processing_time_ms": 2015.075195,
+        "results": {}
+      },
+      "plate": "GMS888"
+    },
+    {
+      "message": "Success",
+      "data": {
+        "epoch_time": 1518957394993,
+        "processing_time_ms": 2015.075195,
+        "results": {}
+      },
+      "plate": "GMS888"
+    },
+    {
+      "message": "Success",
+      "data": {
+        "epoch_time": 1518957394993,
+        "processing_time_ms": 2015.075195,
+        "results": {}
+      },
+      "plate": "GMS888"
+    }
+  ]
+}

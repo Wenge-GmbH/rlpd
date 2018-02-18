@@ -1,0 +1,28 @@
+{
+  "2018-2-18": [
+    {
+      "image": "/images/image-1518956568317.jpg",
+      "message": "No Plate detected",
+      "epoch_time": 1518956568317,
+      "processing_time_ms": 3509.279053
+    },
+    {
+      "image": "/images/image-1518956586190.jpg",
+      "message": "No Plate detected",
+      "epoch_time": 1518956586190,
+      "processing_time_ms": 3442.097168
+    },
+    {
+      "image": "/images/image-1518957172504.jpg",
+      "message": "No Plate detected",
+      "epoch_time": 1518957172504,
+      "processing_time_ms": 1639.210327
+    },
+    {
+      "image": "/images/image-1518957378764.jpg",
+      "message": "No Plate detected",
+      "epoch_time": 1518957378764,
+      "processing_time_ms": 1867.792603
+    }
+  ]
+}
